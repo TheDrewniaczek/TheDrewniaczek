@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Website](www.TheDrewniaczekportfolio.com)
 
-- 🌱 I’m currently learning **HTML/Css/Javascript**
+- 🌱 I’m currently learning **HTML**
 
 - 📫 How to reach me **kacperwoj481@gmail.com**
 
