@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm TheDrewniaczek</h1>
+<h1 align="center">Hi 👋, I'm Kapi</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🔭 I’m currently working on [Website](www.TheDrewniaczekportfolio.com)
+- 🔭 I’m currently working on [Website](www.KapiPortfolio.com)
 
 - 🌱 I’m currently learning **HTML**
 
